@@ -1,5 +1,14 @@
+# Dependencies
+.m2
+
+# IDE files
+.settings
+.classpath
+.project
+
 # Compiled class file
 *.class
+target
 
 # Log file
 *.log
